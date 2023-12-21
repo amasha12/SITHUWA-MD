@@ -15,7 +15,7 @@ global.devs = '94701651987';
 global.website = 'https://github.com/Sithuwa/SITHUWA-MD' //wa.me/+94000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg'
 module.exports = {
-  sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
+  sessionName: process.env.SESSION_ID || "SITHUWA-MD;;;ShreddedTrucks",      //Put Your Session Id Here
   author:  process.env.PACK_AUTHER ||  'SUDDA BOT',
   packname:  process.env.PACK_NAME || 'MADE BY AMASHA INDUNIL',
   
